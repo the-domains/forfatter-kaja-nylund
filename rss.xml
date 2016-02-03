@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Forfatter Kaja Nylund]]></title>
         <description><![CDATA[Forfatter Kaja Nylund]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/forfatter-kaja-nylund/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 22:13:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 22:16:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/forfatter-kaja-nylund/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rebekka]]></title>
+            <description><![CDATA[<article><h1>Rebekka</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab3702e35d7c1d456dca286c94e172b4a7a57d7e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/forfatter-kaja-nylund/rebekka/index.html</link>
+            <guid isPermaLink="false">d831976b-d5c5-4eb8-be33-6e5daed80d8d</guid>
+            <pubDate>Wed, 03 Feb 2016 22:15:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c60ef7e-c1be-4f96-af79-5aaa3d6d8c89.gif">]]></description>
-            <link>undefined082070c8-6843-400d-adc1-3dbeb875fa3f/index.html</link>
+            <link>https://thegrid.ai/forfatter-kaja-nylund/082070c8-6843-400d-adc1-3dbeb875fa3f/index.html</link>
             <guid isPermaLink="false">082070c8-6843-400d-adc1-3dbeb875fa3f</guid>
             <pubDate>Wed, 03 Feb 2016 22:13:07 GMT</pubDate>
         </item>
